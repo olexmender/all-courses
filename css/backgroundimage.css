@@ -1,0 +1,15 @@
+html{
+    margin:0;
+    height:100%;
+    border:10px solid black;
+}
+body{
+    margin:0px;
+    color:aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image:url(images/backgroundimage.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+}

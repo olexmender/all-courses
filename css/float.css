@@ -1,0 +1,13 @@
+body{
+    border:10px solid black;
+    display:flow-root;
+}
+#img1{
+    height:200px;
+    float:left;
+    margin-right:10px;
+}
+#img2{
+    float:right;
+    margin-left:10px;
+}

@@ -1,0 +1,16 @@
+#rohan{
+    border-style:dotted;
+    border-width:5px;
+    border-color:mediumpurple;
+    border-radius:10px;
+}
+#sameer{
+    border:5px solid rgb(29, 90, 235);
+    border-radius:10px;
+}
+p{
+    border-bottom:solid 5px rgb(121, 59, 197);
+    border-left:5px dotted red;
+    border-right:rgb(35, 35, 223) dashed 5px;
+    border-top:5px solid mediumvioletred
+}

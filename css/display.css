@@ -1,0 +1,14 @@
+div{
+    background-color:red;
+    height:100px;
+    width:100px;
+    display:inline;
+    
+}
+span{
+    background-color:lightblue;
+    height:100px;
+    width:100px;
+    display:inline-block;
+    
+}

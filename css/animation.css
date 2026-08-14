@@ -1,0 +1,30 @@
+#box1{
+    height:150px;
+    width:150px;
+    background-color:red;
+    font-size:8em;
+    text-align:center;
+    animation-name:shrink;
+    animation-duration:2s;
+}
+@keyframes slideleft{
+    from{transform :translatex(200%)}
+}
+@keyframes slideright{
+    to{transform :translatex(200%)}
+}
+@keyframes slideup{
+    from{transform :translatey(200%)}
+}
+@keyframes slidedown{
+    to{transform :translatey(200%)}
+}
+@keyframes rotate{
+    100%{transform :rotate(360deg)}
+}
+@keyframes grow{
+    50%{transform:scale(2,2)}
+}
+@keyframes shrink{
+    50%{transform:scale(0.5,0.5)}
+}
